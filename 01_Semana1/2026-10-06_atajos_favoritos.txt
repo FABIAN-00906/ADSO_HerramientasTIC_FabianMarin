@@ -1,0 +1,16 @@
+MIS ATAJOS FAVORITOS - SEMANA 1
+
+1. Windows + E
+Me sirve para abrir rapidamente el Explorador de archivos.
+
+2. Ctrl + C
+Me sirve para copiar rapidamente archivos y carpetas.
+
+3. Ctrl + V
+Me sirve para pegar archivos y carpetas.
+
+4. F2
+Me sirve para cambiar rapidamente el nombre de archivos y carpetas.
+
+5. Ctrl + Shift + N
+Me sirve para crear rapidamente una nueva carpeta.

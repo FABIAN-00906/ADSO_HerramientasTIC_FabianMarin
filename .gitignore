@@ -1,0 +1,13 @@
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de editores
+.vscode/
+
+# Archivos del sistema
+.DS_Store
